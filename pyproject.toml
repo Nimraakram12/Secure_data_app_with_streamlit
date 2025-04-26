@@ -6,6 +6,6 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "authlib>=1.5.2",
-    "psycopg2>=2.9.10",
+    "psycopg2-binary>=2.9.10",
     "streamlit>=1.44.1",
 ]
